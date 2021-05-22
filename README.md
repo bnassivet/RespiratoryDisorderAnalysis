@@ -10,7 +10,7 @@ The notebooks are initially:
 
 - BNA_Capstone_Feature_Extraction-v1.0.1.ipynb: initial feature extraction,
 
-- BNA_Capstone_Model_ML-v1.0.1.ipynb: initial ML models, using the ouputs from BNA_Capstone_Feature_Extraction-v1.0.1.ipynb,
+- BNA_Capstone_Model_ML-v1.0.1.ipynb: initial ML models, using the outputs from BNA_Capstone_Feature_Extraction-v1.0.1.ipynb,
 
 - BNA_Capstone_Feature_Extraction-with_Data_Augmentation_v1.2.ipynb: feature extraction with data augmentation,
 
@@ -20,7 +20,7 @@ The notebooks are initially:
 
 To use the notebooks, you can follow the steps below:
 1. Clone this repo
-2. Download the "Respiratory Disorder" dataset at:
+2. Download the "Respiratory Disorder" dataset at link above
 3. Unzip the zip file to /dataset/Respiratory_dataset/ (paths are configurable on the notebooks)
 4. Edit the file "demographic_info.txt"; the first line should be empty, remove it and save file
 
