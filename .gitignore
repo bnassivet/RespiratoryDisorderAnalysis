@@ -4,3 +4,5 @@ venv
 *.code-workspace
 .ipynb_checkpoint
 ~*
+
+doc/materials/**
