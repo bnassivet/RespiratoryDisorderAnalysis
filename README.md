@@ -1,7 +1,7 @@
 # RespiratoryDisorderAnalysis
 RespiratoryDisorderAnalysis
 
-The project aims to classify and predict respiratory disorders from sound data files. The dataset is described and available on Kaggle: https://www.kaggle.com/vbookshelf/respiratory-sound-database/home
+This project aims to classify and predict respiratory disorders from sound data files. The dataset is described and available on Kaggle: https://www.kaggle.com/vbookshelf/respiratory-sound-database/home
 
 The project has been initialized from my Capstone project for the IBM Advanced Data Science specialization.
 The notebooks are initially:
